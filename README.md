@@ -1,0 +1,1 @@
+Min_Max algorithm along with alpha beta pruning.
